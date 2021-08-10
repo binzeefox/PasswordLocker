@@ -1,0 +1,4 @@
+include ':FoxDevFrame-Kotlin'
+include ':commonLib'
+include ':app'
+rootProject.name = "PasswordLocker"
