@@ -1,10 +1,11 @@
-package com.binzee.passwordlocker
+package com.binzee.passwordlocker.cat
 
 import android.os.Bundle
 import android.widget.Button
 import com.binzee.commonlib.utils.FingerPrintUtil
 import com.binzee.commonlib.utils.FingerPrintUtil.Callback.Companion.RESULT_ERROR
 import com.binzee.commonlib.utils.FingerPrintUtil.Callback.Companion.RESULT_SUCCESS
+import com.binzee.passwordlocker.R
 import com.binzeefox.foxdevframe_kotlin.ui.FoxActivity
 import com.binzeefox.foxdevframe_kotlin.ui.utils.NoticeUtil
 
